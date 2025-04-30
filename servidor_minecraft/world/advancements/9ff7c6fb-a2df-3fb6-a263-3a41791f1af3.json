@@ -56,9 +56,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-04-30 16:52:35 +0000",
-      "minecraft:sunflower_plains": "2025-04-30 17:54:06 +0000"
+      "minecraft:sunflower_plains": "2025-04-30 17:54:06 +0000",
+      "minecraft:forest": "2025-04-30 23:18:51 +0000",
+      "minecraft:plains": "2025-04-30 23:18:43 +0000"
     },
     "done": false
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-04-30 23:18:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
